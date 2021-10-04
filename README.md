@@ -4,7 +4,7 @@ Identifying the most influental factors correlating with pain levels from typing
 ___<span style="color:red">(Work in progress)</span>___
 <img src="images/rsi investigation.png">
 
-### 2. [Finding the top distilleries in Scotland](https://github.com/FSITR/COMAH-sites)
+### 2. [Finding the top distilleries in Scotland](https://github.com/FSITR/comparison-of-whisky-distilleries)
 Finding clusters of flavour profiles and deciding which distilleries represent these best.
 <img src="images/tree.png">
 
