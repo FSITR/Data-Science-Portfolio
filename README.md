@@ -1,7 +1,7 @@
 <!-- # Data Science Portfolio -->
 ### 1. [Finding the top distilleries in Scotland](https://github.com/FSITR/COMAH-sites)
 Finding clusters of flavour profiles and deciding which distilleries represent these best.
-<!-- image -->
+<img src="images/tree.png">
 
 ### 2. [NASA turbofan engine failure prediction](https://github.com/FSITR/COMAH-sites)
 Failure prediction of aircraft engines based on sensor data...
