@@ -10,10 +10,7 @@ Failure prediction of aircraft engines based on sensor data...
 ### 3. [Clustering of COMAH sites](https://github.com/FSITR/COMAH-sites)
 Semi-supervised analysis of hazardous engineering faciliites across the UK<br>
 ___<span style="color:red">(Work in progress)</span>___
-<details>
-  <summary>Click for image...</summary>
 <img src="images/COMAH clusters.png">
-</details>
 
 ### 4. [Prediction of RSI pain levels in computer users](https://github.com/FSITR/COMAH-sites)
 Identifying the most influental factors correlating with pain levels from typing...<br>
