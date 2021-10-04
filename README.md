@@ -14,7 +14,7 @@ ___<span style="color:red">(Work in progress)</span>___
 
 ### 4. [Prediction of RSI pain levels in computer users](https://github.com/FSITR/RSI-investigation)
 Identifying the most influental factors correlating with pain levels from typing...<br>
-___<span style="color:red">Work in progress</span>___
+___<span style="color:red">(Work in progress)</span>___
 <img src="images/rsi investigation.png">
 
 <!-- <details>
