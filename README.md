@@ -12,10 +12,10 @@ Semi-supervised analysis of hazardous engineering faciliites across the UK<br>
 ___<span style="color:red">(Work in progress)</span>___
 <img src="images/COMAH clusters.png">
 
-### 4. [Prediction of RSI pain levels in computer users](https://github.com/FSITR/COMAH-sites)
+### 4. [Prediction of RSI pain levels in computer users](https://github.com/FSITR/RSI-investigation)
 Identifying the most influental factors correlating with pain levels from typing...<br>
 ___<span style="color:red">Work in progress</span>___
-<!-- image -->
+<img src="images/rsi investigation.png">
 
 <!-- <details>
   <summary>Drop down...</summary>
