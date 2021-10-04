@@ -1,37 +1,24 @@
 <!-- # Data Science Portfolio -->
-### _Click on the links below_
-<!-- ## Supervised learning -->
-<details>
-  <summary>Supervised learning...</summary>
-
-### 1. [Manchester house price prediction](https://github.com/FSITR/COMAH-sites)
-House price prediction across manchester...
+### 1. [Finding the top distilleries in Scotland](https://github.com/FSITR/COMAH-sites)
+Finding clusters of flavour profiles and deciding which distilleries represent these best.
 <!-- image -->
 
 ### 2. [NASA turbofan engine failure prediction](https://github.com/FSITR/COMAH-sites)
-Failure predictin of aircraft engines based on sensor data...
+Failure prediction of aircraft engines based on sensor data...
 <!-- image -->
 
-### 3. [Email classification for automated support ticket creation](https://github.com/FSITR/COMAH-sites)
-Multi-Classification of emails based on header and content to allow automated ticket creation...
+### 3. [Clustering of COMAH sites](https://github.com/FSITR/COMAH-sites)
+Semi-supervised analysis of hazardous engineering faciliites across the UK...<br>
+___<span style="color:red">Work in progress</span>___
 <!-- image -->
 
 ### 4. [Prediction of RSI pain levels in computer users](https://github.com/FSITR/COMAH-sites)
-Identifying the most influental factors correlating with pain levels from typing...
+Identifying the most influental factors correlating with pain levels from typing...<br>
+___<span style="color:red">Work in progress</span>___
 <!-- image -->
 
+<!-- <details>
+  <summary>Drop down...</summary>
+### 1. [heading](https://github.com/FSITR/COMAH-sites)
 </details>
-
-<!-- ####################### -->
-
-<details>
-  <summary>Unsupervised learning...</summary>
-  
-### 5. [Clustering of COMAH sites](https://github.com/FSITR/COMAH-sites)
-Basic clustering of hazardous engineering faciliites across the UK...
-<!-- image -->
-
-### 6. [Exploration of text data - Topic modelling of failure records](https://github.com/FSITR/COMAH-sites)
-Exploring the hidden topics with failure records to gain insight...
-<!-- image -->
-</details>
+ -->
