@@ -17,6 +17,9 @@ ___<span style="color:red">(Work in progress)</span>___
 Failure prediction of aircraft engines based on sensor data...
 <!-- image -->
 
+### [Helper scripts](https://github.com/FSITR/Code-snippets)
+Some useful scripts I have created for extracting and converting data, along with some other interesting scripts.
+<!-- image -->
 <!-- <details>
   <summary>Drop down...</summary>
 ### 1. [heading](https://github.com/FSITR/COMAH-sites)
